@@ -109,16 +109,11 @@ If reduced to 0 HP, it explodes in a 20-foot radius for 4d8 fire damage (DEX sav
 Minions, mage hands (2 to start):
 AC 12, dies in one hit. Minion creatures can make bonus action touch attack to rust non-magical, metallic weapon or armor - PERMANENT EFFECT 
 The hand tries to grab your weapon / armor (DEX save 13)
-- The hand grabs the blade. It becomes sizzling. Corrodes the weapon as if. It is noticably duller and rusted as if it accurred years of corrosion
+- The hand grabs the blade. Corrodes the weapon as if it accurred years of corrosion
 - Each failure will add -2 to damage rolls => -4 will break weapon
 - Armor gets -1 to AC => AC 10 will break the armor
 
 
-
-
-
-
-![[Pasted image 20250429232306.png]]
   
 
 
